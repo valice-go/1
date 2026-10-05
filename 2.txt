@@ -1,4 +1,4 @@
 01,#genre#
-C-1,http://index.m3u8
+C-2,http://index.m3u8
 
 
